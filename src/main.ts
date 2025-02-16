@@ -24,7 +24,7 @@ async function bootstrap() {
   const config = new DocumentBuilder()
     .setTitle('Golden Raspberry Awards API')
     .setDescription('API Documentation for developers')
-    .setVersion('0.0.1')
+    .setVersion('1.0.0')
     .addBearerAuth()
     .build()
 
